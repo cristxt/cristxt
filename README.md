@@ -1,6 +1,4 @@
-
-![git-cris](https://github.com/user-attachments/assets/35460bcd-01c6-4726-94e7-04f8229e6cbb)
-
+![Screenshot - 2025-01-07T112634 433](https://github.com/user-attachments/assets/19cc1640-786e-4c5a-b437-4b733c49553d)
 
 
 ```plaintext
