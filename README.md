@@ -3,7 +3,7 @@
 
 ```plaintext
 
-👩‍💻 Passionate about solving complex problems through data-driven solutions. I'm a backend developer with experience in databases (MySQL, MongoDB), server management, and development with Java and Spring Boot.
+👩‍💻 Passionate about solving complex problems through data-driven solutions. I'm a backend developer with experience in databases (MySQL), server management, and development with Java and Spring Boot.
 
 📊 I spent eight years in digital marketing, leading teams and data-driven campaigns. This experience sharpened my analytical mindset, which I now apply to backend development, combining my deep understanding of data with the technical skills I gained from a Full Stack Development Bootcamp.
 
