@@ -1,12 +1,5 @@
-![GIT-CRIS2](https://github.com/user-attachments/assets/ba34fc83-5fa6-45c7-bf27-f012d8d866d9)
 
+![Screenshot - 2025-02-24T170826 281](https://github.com/user-attachments/assets/3c5ca61e-e47a-4b88-82c7-47eaa8743e3f)
 
-```plaintext
+[![LinkedIn](https://img.shields.io/static/v1?label=&message=Find%20me%20on%20LinkedIn!&color=red)](https://www.linkedin.com/in/cristina-romero-llorente/)
 
-👩‍💻 Passionate about solving complex problems through data-driven solutions. I'm a backend developer with experience in databases (MySQL), server management, and development with Java and Spring Boot.
-
-📊 I spent eight years in digital marketing, leading teams and data-driven campaigns. This experience sharpened my analytical mindset, which I now apply to backend development, combining my deep understanding of data with the technical skills I gained from a Full Stack Development Bootcamp.
-
-🌟 I’m always seeking new challenges and opportunities to grow in tech, specifically in backend development, where I can create efficient, scalable, and data-driven solutions.
-```
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,mongodb,bootstrap,react,pnpm,js,css,html,visualstudio,vite,git)](https://skillicons.dev)
